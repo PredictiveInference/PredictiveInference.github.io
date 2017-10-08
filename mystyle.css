@@ -1,8 +1,8 @@
 <STYLE TEXT="text/css">
 <!--
 BODY {background: #FFFFFF; font-family: arial}
-A:link {color: #66000}
-A:visited {color: #4682B4}
+A:link {color: #8B000}
+A:visited {color: #FF0000}
 A {text-decoration: none; font-family: arial}
 H1 {font-size: 24pt; font-family: arial; margin-left: 20px}
 H2 {font-size: 18pt; font-family: arial; margin-left: 20px}
@@ -18,7 +18,7 @@ OL > LI {font-family: arial; line-height: 25px}
     font-size: 16px;
     font-family: arial;
     text-align: left;
-    background-color: #660000;
+    background-color: #8B0000;
 }
 #menu ul {
     height: auto;
