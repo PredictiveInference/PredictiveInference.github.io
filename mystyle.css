@@ -13,6 +13,7 @@ UL > LI {font-family: arial; line-height: 25px}
 OL > LI {font-family: arial; line-height: 25px}
 
 #menu {
+    position: fixed;
     width: auto;
     height: 40px;
     font-size: 16px;
