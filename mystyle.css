@@ -13,8 +13,13 @@ UL {margin-left: 40px}
 UL > LI {font-family: arial; line-height: 25px}
 OL > LI {font-family: arial; line-height: 25px}
 
+th {
+    text-align: left;
+}
+
 table {
-  font-size: 12pt;
+  font-size: 14pt;
+  font-family: arial;
   margin-left:20px;
   margin-right:auto;
   border-collapse: collapse;
