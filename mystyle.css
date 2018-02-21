@@ -16,7 +16,9 @@ OL > LI {font-family: arial; line-height: 25px}
 th {
     text-align: left;
 }
-
+td.column1 {
+   text-align: right;
+}
 table {
   font-size: 14pt;
   font-family: arial;
