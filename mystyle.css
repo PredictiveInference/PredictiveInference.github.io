@@ -16,9 +16,11 @@ OL > LI {font-family: arial; line-height: 25px}
 th {
     text-align: left;
 }
+
 td.column1 {
    text-align: right;
 }
+
 table {
   font-size: 14pt;
   font-family: arial;
@@ -43,7 +45,7 @@ table {
 }
 #menu li {
 display: inline;
-padding: 20px;
+padding: 10px;
 }
 #menu a {
     text-decoration: none;
